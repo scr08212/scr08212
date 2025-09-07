@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Projects
-- ✍️ [Air Writing Recognition System](https://github.com/scr08212/Air_Drawing)  
+- ✍️ [Air Writing Recognition System](https://github.com/scr08212/air-drawing.git)  
   IMU sensors 기반 손동작 → 문자 변환
 
 ---
