@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-- Languages: Java, Python, C++
+- Languages: Java, Python, C++, C#
 - Tools: Git, Docker, AWS
 
 ---
