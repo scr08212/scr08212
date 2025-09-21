@@ -21,7 +21,7 @@
 ## 📊 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scr08212)](https://solved.ac/scr08212)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scr08212&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=scr08212)](https://git.io/streak-stats)
 
 
 <!--
