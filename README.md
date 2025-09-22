@@ -14,7 +14,7 @@
 
 ## 🚀 Projects
 - ✍️ [Air Writing Recognition System](https://github.com/scr08212/air-drawing.git)  
-  IMU sensors 기반 손동작 → 문자 변환
+  관성센서와 카메라를 사용한 공중필기 및 문장인식
 
 ---
 
