@@ -19,4 +19,4 @@
 ---
 
 ## 📊 Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scr08212)](https://solved.ac/scr08212) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scr08212)](https://solved.ac/scr08212)
